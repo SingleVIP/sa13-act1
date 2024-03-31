@@ -1,0 +1,39 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4bbbef; /* Light gray background color */
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-style: italic;
+    color: #e11e24; /* Dark gray text color */
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+article {
+    margin-bottom: 40px;
+}
+
+article h2 {
+    color: #d85aa4; /* Dark gray text color */
+}
+
+footer {
+    background-color: #333; /* Dark gray background color */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 20px 0;
+}
